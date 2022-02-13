@@ -1,8 +1,14 @@
+const path = require("path");
+
 module.exports = {
     title: "Afterlife Blog",
     description: "",
 
-    base: "/blog/",
+    base: "/tech-blog/",
+
+    alias: {
+        "@src": path.resolve(__dirname, "./public/images"),
+    },
 
     search: true,
 
