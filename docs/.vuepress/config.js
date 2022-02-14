@@ -6,14 +6,13 @@ module.exports = {
 
     base: "/tech-blog/",
 
+	port: "8100",
+
     alias: {
         "@src": path.resolve(__dirname, "./public/images"),
     },
 
-    search: true,
-
     themeConfig: {
-        // navbar: true,
         navbar: [
             {text: "Design Patterns", link: "/design-patterns"}
         ],
@@ -26,6 +25,12 @@ module.exports = {
                     "/design-patterns/singleton"
                 ]
             }
-        ]
+        ],
+
+	    plugins: [
+			["@vuepress/plugin-search", {
+				maxSuggestions: 10
+			}],
+	    ]
     }
 }
