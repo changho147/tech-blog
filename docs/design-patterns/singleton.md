@@ -13,7 +13,7 @@
 ## Singleton 구현
 
 **_Lazy-Initialize Singleton_**
-```
+```java
 public class SingletonInstance {
     private static SingletonInstance instance;
 
@@ -38,7 +38,7 @@ public class SingletonInstance {
 <br><br>
 
 **_Synchronized Singleton_**
-```
+```java
 public class SingletonInstance {
     private static SingletonInstance instance;
 
@@ -64,7 +64,7 @@ public class SingletonInstance {
 <br><br>
 
 **_Eager-Initialize Singleton_**
-```
+```java
 public class SingletonInstance {
     private static final SingletonInstance INSTANCE = new SingletonInstance();
 
@@ -86,7 +86,7 @@ App 이 구동될 때 ``SingletonInstance`` 인스턴스를 생성하고, 생성
 <br><br>
 
 **_Double-checked Locking Singleton_**
-```
+```java
 public class SingletonInstance {
     private static volatile SingletonInstance instance;
 
@@ -117,7 +117,7 @@ public class SingletonInstance {
 <br><br>
 
 **_Inner-class(Holder) Singleton_**
-```
+```java
 public class SingletonInstance {
     private SingletonInstance() {
     }
@@ -145,7 +145,7 @@ _참고 Site_. [Initialization-on-demand holder](https://en.wikipedia.org/wiki/I
 <br><br>
 
 **_Enum Singleton_**
-```
+```java
 public enum SingletonInstance {
     INSTANCE
 }

@@ -13,6 +13,8 @@ module.exports = {
     },
 
     themeConfig: {
+		repo: "https://github.com/changho147/tech-blog",
+
         navbar: [
             {text: "Design Patterns", link: "/design-patterns"}
         ],
@@ -28,9 +30,8 @@ module.exports = {
         ],
 
 	    plugins: [
-			["@vuepress/plugin-search", {
-				maxSuggestions: 10
-			}],
+		    "@vuepress/nprogress",
+		    "@vuepress/plugin-prismjs"
 	    ]
     }
 }

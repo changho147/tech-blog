@@ -1,9 +1,13 @@
 :root {
-  --c-brand: #E06C75;
-  --c-brand-light: #D9737B;
+    scroll-behavior: smooth;
+
+    --c-brand: #E06C75;
+    --c-brand-light: #D9737B;
 }
 
 html.dark {
+    scroll-behavior: smooth;
+
     --c-brand: #E06C75;
     --c-brand-light: #D9737B;
 }
