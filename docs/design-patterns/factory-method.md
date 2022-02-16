@@ -84,8 +84,7 @@ public class App {
     }
 }
 ```
-
-roadBicycle, mountainBicycle 의 인스턴스를 생성할 때, BicycleFactory 를 구현한 각각의 팩토리클래스에서 생성한다.
+_**인스턴스를 생성할 때, BicycleFactory 를 구현한 서브 클래스가 생성.**_
 
 <br><br>
 
