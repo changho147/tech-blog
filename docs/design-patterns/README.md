@@ -14,6 +14,7 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 객체의 생성과 변경이 전체 시스템에 미치는 영향을 최소화하도록 만들어주어 유연성을 높일 수 있음
 
 + [Singleton Pattern](singleton)
++ [Factory Method Pattern](factory-method)
 
 
 ## Structural Pattern

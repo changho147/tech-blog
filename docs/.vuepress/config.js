@@ -24,7 +24,8 @@ module.exports = {
                 text: "Design Patterns",
                 link: "/design-patterns/",
                 children: [
-                    "/design-patterns/singleton"
+                    "/design-patterns/singleton",
+                    "/design-patterns/factory-method",
                 ]
             }
         ],
