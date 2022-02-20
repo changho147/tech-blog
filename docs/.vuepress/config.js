@@ -27,6 +27,7 @@ module.exports = {
                     "/design-patterns/singleton",
                     "/design-patterns/factory-method",
                     "/design-patterns/abstract-factory",
+                    "/design-patterns/builder",
                 ]
             }
         ],
