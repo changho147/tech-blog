@@ -26,13 +26,15 @@ module.exports = {
                 children: [
                     "/design-patterns/singleton",
                     "/design-patterns/factory-method",
+                    "/design-patterns/abstract-factory",
                 ]
             }
         ],
 
 	    plugins: [
 		    "@vuepress/nprogress",
-		    "@vuepress/plugin-prismjs"
+		    "@vuepress/plugin-prismjs",
+		    "@vuepress/plugin-container"
 	    ]
     }
 }

@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^2.0.0-beta.35",
+    "@vuepress/plugin-container": "^2.0.0-beta.35",
     "@vuepress/plugin-nprogress": "^2.0.0-beta.35",
     "@vuepress/plugin-prismjs": "^2.0.0-beta.35",
     "package-name": "^0.1.0",
