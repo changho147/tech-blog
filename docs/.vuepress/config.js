@@ -28,6 +28,7 @@ module.exports = {
                     "/design-patterns/factory-method",
                     "/design-patterns/abstract-factory",
                     "/design-patterns/builder",
+                    "/design-patterns/prototype",
                 ]
             }
         ],
