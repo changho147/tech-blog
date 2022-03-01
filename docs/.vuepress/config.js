@@ -29,6 +29,7 @@ module.exports = {
                     "/design-patterns/abstract-factory",
                     "/design-patterns/builder",
                     "/design-patterns/prototype",
+                    "/design-patterns/adapter",
                 ]
             }
         ],

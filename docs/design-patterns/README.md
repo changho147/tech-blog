@@ -17,7 +17,7 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 + [Factory Method Pattern](factory-method)
 + [Abstract Factory Pattern](abstract-factory)
 + [Builder Pattern](builder)
-+ [Prototype Pattern](prototype.md)
++ [Prototype Pattern](prototype)
 
 
 ## Structural Pattern
@@ -26,6 +26,8 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 복잡한 형태의 구조를 갖는 시스템을 개발하기 쉽게 만들어주는 패턴
 <br>
 새로운 기능을 가진 복합 객체를 효과적으로 작성할 수 있음
+
++ [Adapter Pattern](adapter)
 
 
 ## Behavioral Pattern
