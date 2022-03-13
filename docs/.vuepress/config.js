@@ -30,6 +30,7 @@ module.exports = {
                     "/design-patterns/builder",
                     "/design-patterns/prototype",
                     "/design-patterns/adapter",
+                    "/design-patterns/bridge",
                 ]
             }
         ],
