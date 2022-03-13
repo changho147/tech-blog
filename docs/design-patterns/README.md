@@ -28,6 +28,7 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 새로운 기능을 가진 복합 객체를 효과적으로 작성할 수 있음
 
 + [Adapter Pattern](adapter)
++ [Bridge Pattern](bridge)
 
 
 ## Behavioral Pattern
