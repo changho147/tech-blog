@@ -32,6 +32,7 @@ module.exports = {
                     "/design-patterns/adapter",
                     "/design-patterns/bridge",
                     "/design-patterns/composite",
+                    "/design-patterns/decorator",
                 ]
             }
         ],
