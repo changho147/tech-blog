@@ -36,6 +36,7 @@ module.exports = {
                     "/design-patterns/facade",
                     "/design-patterns/flyweight",
                     "/design-patterns/proxy",
+                    "/design-patterns/chain-of-responsibility",
                 ]
             }
         ],

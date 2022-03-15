@@ -40,3 +40,6 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 객체들 간의 행위나 알고리즘 등과 관련된 패턴
 <br>
 반복적으로 사용되는 객체들의 상호작용을 패턴화한 것으로, 클래스나 객체들이 상호작용하는 방법과 책임을 분산하는 방법을 정의
+
++ [Chain Of Responsibility Pattern](chain-of-responsibility)
+
