@@ -34,6 +34,7 @@ module.exports = {
                     "/design-patterns/composite",
                     "/design-patterns/decorator",
                     "/design-patterns/facade",
+                    "/design-patterns/flyweight",
                 ]
             }
         ],

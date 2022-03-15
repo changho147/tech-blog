@@ -32,6 +32,7 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 + [Composite Pattern](composite)
 + [Decorator Pattern](decorator)
 + [Facade Pattern](facade)
++ [Flyweight Pattern](flyweight)
 
 
 ## Behavioral Pattern
