@@ -35,6 +35,7 @@ module.exports = {
                     "/design-patterns/decorator",
                     "/design-patterns/facade",
                     "/design-patterns/flyweight",
+                    "/design-patterns/proxy",
                 ]
             }
         ],
