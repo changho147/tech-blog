@@ -33,6 +33,7 @@ module.exports = {
                     "/design-patterns/bridge",
                     "/design-patterns/composite",
                     "/design-patterns/decorator",
+                    "/design-patterns/facade",
                 ]
             }
         ],
