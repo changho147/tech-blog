@@ -38,6 +38,7 @@ module.exports = {
                     "/design-patterns/proxy",
                     "/design-patterns/chain-of-responsibility",
                     "/design-patterns/command",
+                    "/design-patterns/interpreter",
                 ]
             }
         ],
