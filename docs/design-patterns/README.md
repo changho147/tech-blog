@@ -44,4 +44,5 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 + [Chain Of Responsibility Pattern](chain-of-responsibility)
 + [Command Pattern](command)
 + [Interpreter Pattern](interpreter)
++ [Iterator Pattern](iterator)
 

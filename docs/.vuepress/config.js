@@ -39,6 +39,7 @@ module.exports = {
                     "/design-patterns/chain-of-responsibility",
                     "/design-patterns/command",
                     "/design-patterns/interpreter",
+                    "/design-patterns/iterator",
                 ]
             }
         ],
