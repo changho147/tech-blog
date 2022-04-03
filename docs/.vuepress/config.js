@@ -40,6 +40,7 @@ module.exports = {
                     "/design-patterns/command",
                     "/design-patterns/interpreter",
                     "/design-patterns/iterator",
+                    "/design-patterns/mediator",
                 ]
             }
         ],
