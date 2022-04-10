@@ -41,6 +41,7 @@ module.exports = {
                     "/design-patterns/interpreter",
                     "/design-patterns/iterator",
                     "/design-patterns/mediator",
+                    "/design-patterns/memento",
                 ]
             }
         ],
