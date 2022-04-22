@@ -24,24 +24,43 @@ module.exports = {
                 text: "Design Patterns",
                 link: "/design-patterns/",
                 children: [
-                    "/design-patterns/singleton",
-                    "/design-patterns/factory-method",
-                    "/design-patterns/abstract-factory",
-                    "/design-patterns/builder",
-                    "/design-patterns/prototype",
-                    "/design-patterns/adapter",
-                    "/design-patterns/bridge",
-                    "/design-patterns/composite",
-                    "/design-patterns/decorator",
-                    "/design-patterns/facade",
-                    "/design-patterns/flyweight",
-                    "/design-patterns/proxy",
-                    "/design-patterns/chain-of-responsibility",
-                    "/design-patterns/command",
-                    "/design-patterns/interpreter",
-                    "/design-patterns/iterator",
-                    "/design-patterns/mediator",
-                    "/design-patterns/memento",
+	                {
+						text: "Creation Pattern",
+		                link: "/design-patterns/singleton/",
+		                children: [
+			                "/design-patterns/singleton",
+			                "/design-patterns/factory-method",
+			                "/design-patterns/abstract-factory",
+			                "/design-patterns/builder",
+			                "/design-patterns/prototype"
+		                ]
+	                },
+	                {
+		                text: "Structural Pattern",
+		                link: "/design-patterns/adapter/",
+		                children: [
+			                "/design-patterns/adapter",
+			                "/design-patterns/bridge",
+			                "/design-patterns/composite",
+			                "/design-patterns/decorator",
+			                "/design-patterns/facade",
+			                "/design-patterns/flyweight",
+			                "/design-patterns/proxy"
+		                ]
+	                },
+	                {
+		                text: "Behavioral Pattern",
+		                link: "/design-patterns/chain-of-responsibility/",
+		                children: [
+			                "/design-patterns/chain-of-responsibility",
+			                "/design-patterns/command",
+			                "/design-patterns/interpreter",
+			                "/design-patterns/iterator",
+			                "/design-patterns/mediator",
+			                "/design-patterns/memento",
+			                "/design-patterns/observer"
+		                ]
+	                }
                 ]
             }
         ],
