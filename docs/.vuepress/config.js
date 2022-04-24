@@ -58,7 +58,8 @@ module.exports = {
 			                "/design-patterns/iterator",
 			                "/design-patterns/mediator",
 			                "/design-patterns/memento",
-			                "/design-patterns/observer"
+			                "/design-patterns/observer",
+			                "/design-patterns/state",
 		                ]
 	                }
                 ]
