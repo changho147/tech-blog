@@ -61,6 +61,7 @@ module.exports = {
 			                "/design-patterns/observer",
 			                "/design-patterns/state",
 			                "/design-patterns/strategy",
+			                "/design-patterns/template-method",
 		                ]
 	                }
                 ]
