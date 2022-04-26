@@ -63,6 +63,7 @@ module.exports = {
 			                "/design-patterns/strategy",
 			                "/design-patterns/template-method",
 			                "/design-patterns/template-callback",
+			                "/design-patterns/visitor",
 		                ]
 	                }
                 ]

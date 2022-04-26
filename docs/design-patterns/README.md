@@ -52,4 +52,5 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 + [Strategy Pattern](strategy)
 + [Template Method Pattern](template-method)
 + [Template Callback Pattern](template-callback) (GoF Design Pattern 에 포함되어 있지 않음)
++ [Visitor Pattern](visitor)
 
