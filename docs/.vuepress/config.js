@@ -60,6 +60,7 @@ module.exports = {
 			                "/design-patterns/memento",
 			                "/design-patterns/observer",
 			                "/design-patterns/state",
+			                "/design-patterns/strategy",
 		                ]
 	                }
                 ]
