@@ -65,6 +65,10 @@ module.exports = {
 			                "/design-patterns/memento",
 			                "/design-patterns/observer",
 			                "/design-patterns/state",
+			                "/design-patterns/strategy",
+			                "/design-patterns/template-method",
+			                "/design-patterns/template-callback",
+			                "/design-patterns/visitor",
 		                ]
 	                }
                 ]
