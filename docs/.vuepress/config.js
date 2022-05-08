@@ -24,12 +24,10 @@ module.exports = {
             {
                 text: "Design Patterns",
                 link: "/design-patterns/",
-				collapsable: true,
                 children: [
 	                {
 						text: "Creation Pattern",
 		                link: "/design-patterns/singleton/",
-						collapsable: true,
 		                children: [
 			                "/design-patterns/singleton",
 			                "/design-patterns/factory-method",
@@ -41,7 +39,6 @@ module.exports = {
 	                {
 		                text: "Structural Pattern",
 		                link: "/design-patterns/adapter/",
-						collapsable: true,
 		                children: [
 			                "/design-patterns/adapter",
 			                "/design-patterns/bridge",
@@ -55,7 +52,6 @@ module.exports = {
 	                {
 		                text: "Behavioral Pattern",
 		                link: "/design-patterns/chain-of-responsibility/",
-						collapsable: true,
 		                children: [
 			                "/design-patterns/chain-of-responsibility",
 			                "/design-patterns/command",
@@ -76,7 +72,6 @@ module.exports = {
 			{
 				text: "JPA(Java Persistence Api)",
 				link: "/jpa/",
-				collapsable: true,
 			}
         ],
 
