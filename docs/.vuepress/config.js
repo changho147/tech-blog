@@ -16,8 +16,7 @@ module.exports = {
 		repo: "https://github.com/changho147/tech-blog",
 
         navbar: [
-            {text: "Design Patterns", link: "/design-patterns"},
-            // {text: "Jpa", link: "/jpa"},
+            {text: "Design Patterns", link: "/design-patterns"}
         ],
 
         sidebar: [
@@ -64,15 +63,11 @@ module.exports = {
 			                "/design-patterns/strategy",
 			                "/design-patterns/template-method",
 			                "/design-patterns/template-callback",
-			                "/design-patterns/visitor",
+			                "/design-patterns/visitor"
 		                ]
 	                }
                 ]
             }
-			// {
-			// 	text: "JPA(Java Persistence Api)",
-			// 	link: "/jpa/",
-			// }
         ],
 
 	    plugins: [
