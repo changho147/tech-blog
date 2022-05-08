@@ -17,7 +17,7 @@ module.exports = {
 
         navbar: [
             {text: "Design Patterns", link: "/design-patterns"},
-            {text: "Jpa", link: "/jpa"},
+            // {text: "Jpa", link: "/jpa"},
         ],
 
         sidebar: [
@@ -68,11 +68,11 @@ module.exports = {
 		                ]
 	                }
                 ]
-            },
-			{
-				text: "JPA(Java Persistence Api)",
-				link: "/jpa/",
-			}
+            }
+			// {
+			// 	text: "JPA(Java Persistence Api)",
+			// 	link: "/jpa/",
+			// }
         ],
 
 	    plugins: [
