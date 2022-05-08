@@ -5,6 +5,8 @@ module.exports = {
 	title: "Afterlife Blog",
 	description: "",
 
+	base: "/tech-blog/",
+
 	port: "8100",
 
 	alias: {
@@ -18,7 +20,6 @@ module.exports = {
 	],
 
 	theme: defaultTheme({
-		base: "/tech-blog/",
 		repo: "https://github.com/changho147/tech-blog",
 
 		navbar: [
