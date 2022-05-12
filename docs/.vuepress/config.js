@@ -82,7 +82,9 @@ module.exports = {
 			"/jpa": [
 				{
 					text: "JPA(Java Persistence Api)",
-					children: []
+					children: [
+						"/jpa/persistence-context"
+					]
 				}
 			]
 		}
