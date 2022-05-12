@@ -1,5 +1,7 @@
-# Blog 를 시작하며
+# Study Blog
 
-공부를 하며 얻은 지식들을 남기기 위하여, Blog 를 시작했습니다.
-<br>
-앞으로 여유가 날 때마다 내용들을 하나하나씩 채워가려고 합니다.
+스터디를 하면서 배운 내용들을 정리하려고 합니다.
+
+#### [Design Patterns](design-patterns/README.md)
+#### [JPA](jpa/README.md)
+

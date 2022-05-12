@@ -13,11 +13,11 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 <br>
 객체의 생성과 변경이 전체 시스템에 미치는 영향을 최소화하도록 만들어주어 유연성을 높일 수 있음
 
-+ [Singleton Pattern](singleton)
-+ [Factory Method Pattern](factory-method)
-+ [Abstract Factory Pattern](abstract-factory)
-+ [Builder Pattern](builder)
-+ [Prototype Pattern](prototype)
++ [Singleton Pattern](singleton.md)
++ [Factory Method Pattern](factory-method.md)
++ [Abstract Factory Pattern](abstract-factory.md)
++ [Builder Pattern](builder.md)
++ [Prototype Pattern](prototype.md)
 
 
 ## Structural Pattern
@@ -27,13 +27,13 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 <br>
 새로운 기능을 가진 복합 객체를 효과적으로 작성할 수 있음
 
-+ [Adapter Pattern](adapter)
-+ [Bridge Pattern](bridge)
-+ [Composite Pattern](composite)
-+ [Decorator Pattern](decorator)
-+ [Facade Pattern](facade)
-+ [Flyweight Pattern](flyweight)
-+ [Proxy Pattern](proxy)
++ [Adapter Pattern](adapter.md)
++ [Bridge Pattern](bridge.md)
++ [Composite Pattern](composite.md)
++ [Decorator Pattern](decorator.md)
++ [Facade Pattern](facade.md)
++ [Flyweight Pattern](flyweight.md)
++ [Proxy Pattern](proxy.md)
 
 
 ## Behavioral Pattern
@@ -41,16 +41,16 @@ _참고. [Wikipedia](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%E
 <br>
 반복적으로 사용되는 객체들의 상호작용을 패턴화한 것으로, 클래스나 객체들이 상호작용하는 방법과 책임을 분산하는 방법을 정의
 
-+ [Chain Of Responsibility Pattern](chain-of-responsibility)
-+ [Command Pattern](command)
-+ [Interpreter Pattern](interpreter)
-+ [Iterator Pattern](iterator)
-+ [Mediator Pattern](mediator)
-+ [Memento Pattern](memento)
-+ [Observer Pattern](observer)
-+ [State Pattern](state)
-+ [Strategy Pattern](strategy)
-+ [Template Method Pattern](template-method)
-+ [Template Callback Pattern](template-callback) (GoF Design Pattern 에 포함되어 있지 않음)
-+ [Visitor Pattern](visitor)
++ [Chain Of Responsibility Pattern](chain-of-responsibility.md)
++ [Command Pattern](command.md)
++ [Interpreter Pattern](interpreter.md)
++ [Iterator Pattern](iterator.md)
++ [Mediator Pattern](mediator.md)
++ [Memento Pattern](memento.md)
++ [Observer Pattern](observer.md)
++ [State Pattern](state.md)
++ [Strategy Pattern](strategy.md)
++ [Template Method Pattern](template-method.md)
++ [Template Callback Pattern](template-callback.md) (GoF Design Pattern 에 포함되어 있지 않음)
++ [Visitor Pattern](visitor.md)
 
